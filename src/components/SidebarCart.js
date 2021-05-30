@@ -1,5 +1,6 @@
 import React from 'react'
 import {Avatar} from '@material-ui/core'
+import '../styles/SidebarCart.css'
 function SidebarCart() {
     return (
         <div class='sidebarChat'>

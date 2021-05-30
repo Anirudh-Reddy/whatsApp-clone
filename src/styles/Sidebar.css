@@ -44,8 +44,7 @@
   margin-left: 10px;
 }
 .sidebar__chats{
-   display:flex;
-   flex-direction: column;
+   flex: 1;
    background-color:white;
-   height:100%;
+   overflow: scroll;
 }
